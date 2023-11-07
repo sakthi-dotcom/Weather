@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="upcoming_days">Upcoming Days</string>
+
+    <string name="default_notification_channel_id" translatable="false">Notifications</string>
+</resources>
